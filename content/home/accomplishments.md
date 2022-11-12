@@ -26,7 +26,7 @@ item:
   - certificate_url: ''
     date_end: ''
     date_start: '2016-08-15'
-    description: 'Infancy to school age population-based prospective study:
+    description: 'Infancy to school age population-based prospective study'
     
     organization: Program for Early Autism Research, Leadership, and Service (PEARLS)
     organization_url: https://www.med.unc.edu/healthsciences/pearls/
