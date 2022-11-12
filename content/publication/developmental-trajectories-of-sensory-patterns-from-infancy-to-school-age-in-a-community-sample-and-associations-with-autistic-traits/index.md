@@ -1,6 +1,7 @@
 ---
 title: Developmental trajectories of sensory patterns from infancy to school age
   in a community sample and associations with autistic traits
+url_pdf: https://drive.google.com/file/d/1clvfgc24GIwKjHUwgpUdEqRxG3Ahf-a7/view?usp=share_link
 publication_types:
   - "2"
 authors:
