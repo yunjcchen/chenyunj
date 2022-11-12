@@ -35,7 +35,7 @@ abstract: "Sensory-based subtypes among autistic children have been well
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2022-11-12T18:24:00.114Z
