@@ -11,10 +11,10 @@ interests:
   - Early Screening
 social:
   - icon: envelope
-    icon_pack: ai
+    icon_pack: fas
     link: "mailto: cheny793@mcmaster.ca"
   - icon: twitter
-    icon_pack: ai
+    icon_pack: fab
     link: https://twitter.com/yunjcchen
     label: ""
     display:
