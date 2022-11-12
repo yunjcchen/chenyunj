@@ -1,6 +1,7 @@
 ---
 title: "Brief report: Attention patterns to non-social stimuli and associations
   with sensory features in autistic children"
+url_pdf: https://drive.google.com/file/d/1LbjPVC-4NRYsaRpnz8Ko4TJHFcnve4oL/view?usp=share_link
 publication_types:
   - "2"
 authors:
