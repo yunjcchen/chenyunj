@@ -26,8 +26,9 @@ item:
   - certificate_url: ''
     date_end: ''
     date_start: '2016-08-15'
-    description: 'Infancy to school age population-based prospective study'
-    
+    description: 'Infancy to school age population-based prospective study: |2-
+    1) Validation of First Years Inventory (FYI) as a level-1 autism screener
+    2) Tracking early trajectories of sensory features '
     organization: Program for Early Autism Research, Leadership, and Service (PEARLS)
     organization_url: https://www.med.unc.edu/healthsciences/pearls/
     title: North Carolina Child Development Survey (NCCDS) 
