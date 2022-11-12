@@ -30,18 +30,18 @@ social:
     icon_pack: ai
     link: https://drive.google.com/file/d/1FwefFLiAKRtGJIUmeCjM3r9QEydK848q/view?usp=share_link
 organizations:
-  - name: McMaster University 🇨🇦
+  - name: McMaster University
     url: ""
 education:
   courses:
     - course: PhD in Occupational Science
-      institution: University of Southern California 🇺🇸
+      institution: University of Southern California
       year: 2021
     - course: MS in Medical Sciences (Neuropsychology)
-      institution: Keio University 🇯🇵
+      institution: Keio University
       year: 2012
     - course: BS in Occupational Therapy
-      institution: National Taiwan University 🇹🇼
+      institution: National Taiwan University
       year: 2009
 superuser: true
 last_name: Bighetti
