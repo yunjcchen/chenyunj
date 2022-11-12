@@ -1,5 +1,6 @@
 ---
 title: "Rethinking autism intervention science: A dynamic perspective"
+url_pdf: https://drive.google.com/file/d/17g_KdzVe74h-NnYoY0rnzRzgYLxGYM7f/view?usp=share_link
 publication_types:
   - "2"
 authors:
