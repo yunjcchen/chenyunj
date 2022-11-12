@@ -27,9 +27,9 @@ item:
     date_end: ''
     date_start: '2021-10-01'
     description: 'Multi-site Canadian prospective study from autism diagnosis to adulthood (PI: Peter Szatmari)'
-    organization: University of Toronto
-    organization_url: https://chan.usc.edu/inspirelab
-    title: Pathways in ASD
+    organization: Pathways in ASD
+    organization_url: ''
+    title: Pathways in Autism Spectrum Disorder
     url: https://asdpathways.ca/
 
   - certificate_url: ''
