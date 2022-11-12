@@ -49,7 +49,7 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-I am currently a postdoctoral fellow in the Offord Centre for Child Studies at McMaster University and a member of the [McMaster Autism Research Team (MacART)](http://www.macautism.ca/welcome-macart).
+I am currently a postdoctoral fellow in the [Offord Centre for Child Studies](https://offordcentre.com/) at McMaster University and a member of the [McMaster Autism Research Team (MacART)](http://www.macautism.ca/welcome-macart).
 
 My original training as a pediatric occupational therapist working with children with special needs across settings as well as extended research experiences in longitudinal projects with clinical and general populations have led to my interest in understanding **the heterogeneous behavioral manifestations across the lifespan with and *beyond* the autism spectrum**.
 
