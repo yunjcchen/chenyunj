@@ -26,7 +26,8 @@ item:
   - certificate_url: ''
     date_end: ''
     date_start: '2016-08-15'
-    description: 'Infancy to school age population-based prospective study: |2-
+    description: |2-
+    'Infancy to school age population-based prospective study: 
     1) Validation of First Years Inventory (FYI) as a level-1 autism screener
     2) Tracking early trajectories of sensory features '
     organization: Program for Early Autism Research, Leadership, and Service (PEARLS)
