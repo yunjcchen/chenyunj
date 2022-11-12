@@ -1,6 +1,7 @@
 ---
 title: Sensory reactivity of infants at elevated likelihood of autism and
   associations with caregiver responsiveness
+url_pdf: https://link.springer.com/content/pdf/10.1007/s10803-022-05764-z.pdf
 publication_types:
   - "2"
 authors:
