@@ -2,6 +2,7 @@
 title: "Early measurement of autism risk constructs in the general population: A
   new factor structure of the First Years Inventory (FYIv3.1) for ages 6-16
   months"
+url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/aur.2691
 publication_types:
   - "2"
 authors:
