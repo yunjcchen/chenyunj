@@ -23,14 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-   # - certificate_url: ''
+    - certificate_url: ''
    #  date_end: ''
-   #  date_start: '2021-10-01'
+     date_start: '2021-10-01'
    #  description: 'Multi-site Canadian prospective study from autism diagnosis to adulthood (PI: Peter Szatmari)'
-   #  organization: Pathways in ASD
+     organization: Pathways in ASD
    #  organization_url: ''
-   # title: Pathways in Autism Spectrum Disorder
-   # url: https://asdpathways.ca/
+    title: Pathways in Autism Spectrum Disorder
+    url: https://asdpathways.ca/
 
   - certificate_url: ''
     date_end: '2021-08-15'
