@@ -25,6 +25,15 @@ date_format: Jan 2006
 item:
   - certificate_url: ''
     date_end: ''
+    date_start: '2022-10-15'
+    description: 'A transdiagnostic investigation of co-occurring health conditions in autism among the Canadian general population (PI: Yun-Ju Chen): Age-varying patterns and functional impact'
+    organization: Statistics Canada
+    organization_url: https://www23.statcan.gc.ca/
+    title: Canadian Health Survey on Children and Youth (CHSCY) 
+    url: https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=5233
+  
+  - certificate_url: ''
+    date_end: ''
     date_start: '2021-10-15'
     description: 'Multi-site Canadian prospective study from autism diagnosis to adulthood (PI: Peter Szatmari)'
     organization: Pathways in ASD
