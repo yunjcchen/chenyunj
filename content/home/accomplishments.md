@@ -31,18 +31,17 @@ item:
     organization: ''
     organization_url: ''
     title: Pathways in ASD
-    url: 'https://asdpathways.ca/'
+    url: https://asdpathways.ca/
     
   - certificate_url: ''
     date_end: '2021-08-15'
     date_start: '2017-08-01'
     description: 'Population-based prospective study in California (PI: Grace T. Baranek): 
-    Early detection and intervention 
-    for autism among culturally diverse populations in Los Angeles'  
+    Early detection and intervention for autism among culturally diverse populations in Los Angeles'  
     organization: Innovations in Neurodevelopmental Sensory Processing Research (insp!re) Lab
     organization_url: https://chan.usc.edu/inspirelab
     title: Southern California Child Development Survey (SoCal)
-    url: ''
+    url: https://chan.usc.edu/inspirelab/research/fyi
     
   - certificate_url: ''
     date_end: ''
@@ -53,7 +52,7 @@ item:
     organization: Program for Early Autism Research, Leadership, and Service (PEARLS)
     organization_url: https://www.med.unc.edu/healthsciences/pearls/
     title: North Carolina Child Development Survey (NCCDS) 
-    url: ''
+    url: https://www.med.unc.edu/healthsciences/pearls/research/first-year-inventory-fyi-development/
     
   - certificate_url: https://www.edx.org
     date_end: ''
