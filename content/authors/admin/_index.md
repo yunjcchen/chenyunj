@@ -24,7 +24,7 @@ social:
     link: https://scholar.google.com/citations?user=cFAOXzUAAAAJ&hl=en
     label: ""
   - icon: researchgate
-    icon_pack: ai
+    icon_pack: far
     link: https://www.researchgate.net/profile/Yun-Ju-Chen-2
   - icon: cv
     icon_pack: ai
