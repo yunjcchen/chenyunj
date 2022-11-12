@@ -28,7 +28,7 @@ item:
     date_start: '2021-10-01'
     description: 'Multi-site Canadian prospective study of an inception cohort of autistic children from diagnosis to adulthood (PI: Peter Szatmari)'
     organization: UT
-    organization_url: ''
+    organization_url: https://asdpathways.ca/
     title: Pathways in ASD
     url: https://asdpathways.ca/
     
