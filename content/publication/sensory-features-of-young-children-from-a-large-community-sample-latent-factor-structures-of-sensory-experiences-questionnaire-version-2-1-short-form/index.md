@@ -2,6 +2,7 @@
 title: "Sensory features of young children from a large community sample: Latent
   factor structures of Sensory Experiences Questionnaire (Version 2.1, Short
   Form)"
+url_pdf: https://drive.google.com/file/d/1JS5N4WLT1uPXqm5uN82CpAiuEJQzLwwP/view?usp=share_link
 publication_types:
   - "2"
 doi: 10.5014/ajot.2022.046995
