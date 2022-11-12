@@ -28,7 +28,7 @@ item:
     date_start: '2021-10-01'
     description: 'Multi-site Canadian prospective study from autism diagnosis to adulthood (PI: Peter Szatmari)'
     organization: Pathways in ASD
-    organization_url: ''
+    organization_url: 
     title: Pathways in Autism Spectrum Disorder
     url: https://asdpathways.ca/
 
