@@ -34,6 +34,15 @@ item:
 
   - certificate_url: ''
     date_end: ''
+    date_start: '2021-10-15'
+    description: 'Multi-site Canadian prospective study from autism diagnosis to adulthood (PI: Peter Szatmari)'
+    organization: Pathways in ASD
+    organization_url: http://www.macautism.ca/
+    title: Pathways in Autism Spectrum Disorder 
+    url: https://asdpathways.ca/
+    
+  - certificate_url: ''
+    date_end: ''
     date_start: '2021-09-30'
     description: 'Multi-site prospective study from autism diagnosis in autism (PI: Stelios Georgiades):  
     Tracking developmental trajectories of stakeholder-informed outcomes with protocols that aim for bridging research-to-practice gap'
