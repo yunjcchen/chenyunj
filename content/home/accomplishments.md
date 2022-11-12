@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url: ''
-    date_end: ''
+    date_end: 'Present'
     date_start: '2022-10-15'
     description: 'A transdiagnostic investigation of co-occurring health conditions in autism among the Canadian general population (PI: Yun-Ju Chen): Age-varying patterns and functional impact'
     organization: Statistics Canada
@@ -33,7 +33,7 @@ item:
     url: https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=5233
   
   - certificate_url: ''
-    date_end: ''
+    date_end: 'Present'
     date_start: '2021-10-15'
     description: 'Multi-site Canadian prospective study from autism diagnosis to adulthood (PI: Peter Szatmari)'
     organization: Pathways in ASD
@@ -42,7 +42,7 @@ item:
     url: https://asdpathways.ca/
     
   - certificate_url: ''
-    date_end: ''
+    date_end: 'Present'
     date_start: '2021-09-30'
     description: 'Multi-site prospective study from autism diagnosis in autism (PI: Stelios Georgiades):  
     Tracking developmental trajectories of stakeholder-informed outcomes with protocols that aim for bridging research-to-practice gap'
@@ -62,7 +62,7 @@ item:
     url: https://chan.usc.edu/inspirelab/research/fyi
     
   - certificate_url: ''
-    date_end: ''
+    date_end: '2021-08-15'
     date_start: '2016-08-15'
     description: 'Population-based prospective study from Infancy to school-age in North Carolina (PI: Grace T. Baranek):  
     1) Validation of First Years Inventory (FYI) as a level-1 autism screener; 
