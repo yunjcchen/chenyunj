@@ -23,10 +23,21 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+   - certificate_url: ''
+    date_end: ''
+    date_start: '2021-10-01'
+    description: 'Multi-site Canadian prospective study of an inception cohort of autistic children from diagnosis to adulthood 
+    (PI: Peter Szatmari)'
+    organization: ''
+    organization_url: ''
+    title: Pathways in ASD
+    url: 'https://asdpathways.ca/'
+    
   - certificate_url: ''
     date_end: '2021-08-15'
     date_start: '2017-08-01'
-    description: 'Population-based prospective study: early detection and intervention 
+    description: 'Population-based prospective study in California (PI: Grace T. Baranek): 
+    Early detection and intervention 
     for autism among culturally diverse populations in Los Angeles'  
     organization: Innovations in Neurodevelopmental Sensory Processing Research (insp!re) Lab
     organization_url: https://chan.usc.edu/inspirelab
@@ -36,7 +47,7 @@ item:
   - certificate_url: ''
     date_end: ''
     date_start: '2016-08-15'
-    description: 'Population-based prospective study from Infancy to school-age:  
+    description: 'Population-based prospective study from Infancy to school-age in North Carolina (PI: Grace T. Baranek):  
     1) Validation of First Years Inventory (FYI) as a level-1 autism screener; 
     2) Tracking early trajectories of sensory features'
     organization: Program for Early Autism Research, Leadership, and Service (PEARLS)
