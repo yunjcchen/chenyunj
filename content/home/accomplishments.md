@@ -26,11 +26,15 @@ item:
   - certificate_url: ''
     date_end: ''
     date_start: '2016-08-15'
-    description: 'Infancy to school age population-based prospective study'
+    description: |2-
+    Infancy to school age population-based prospective study
+    * Validation of First Years Inventory as a level-1 autism screener
+    * Early developmental trajectories of sensory features and associated outcomes
     organization: Program for Early Autism Research, Leadership, and Service (PEARLS)
     organization_url: https://www.med.unc.edu/healthsciences/pearls/
     title: North Carolina Child Development Survey (NCCDS) 
     url: ''
+    
   - certificate_url: https://www.edx.org
     date_end: ''
     date_start: '2021-01-01'
@@ -39,6 +43,7 @@ item:
     organization_url: https://www.edx.org
     title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
     date_start: '2020-07-01'
