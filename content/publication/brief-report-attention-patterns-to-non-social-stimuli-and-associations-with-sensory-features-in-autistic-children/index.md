@@ -1,7 +1,6 @@
 ---
 title: "Brief report: Attention patterns to non-social stimuli and associations
   with sensory features in autistic children"
-url_pdf: https://drive.google.com/file/d/1LbjPVC-4NRYsaRpnz8Ko4TJHFcnve4oL/view?usp=share_link
 publication_types:
   - "2"
 authors:
@@ -39,6 +38,7 @@ abstract: Aberrant attention patterns have been commonly reported in autistic
   might underlie attention patterns as impacted by stimulus properties
   specifically in autism.
 draft: false
+url_pdf: https://drive.google.com/file/d/1LbjPVC-4NRYsaRpnz8Ko4TJHFcnve4oL/view?usp=share_link
 featured: false
 image:
   filename: featured
@@ -46,4 +46,4 @@ image:
   preview_only: false
 date: 2022-10-01T17:21:03.149Z
 ---
-Supplementary materials can be downloaded [here](https://docs.google.com/document/d/1dcVYncm7Um36RarmHtBstfRvqsW9eRQ7/edit?usp=share_link&ouid=118048290110788908284&rtpof=true&sd=true).
+Supplementary materials can be downloaded [here](https://drive.google.com/file/d/1gch5omh6QDbIOZzbBjX4TTenn7MknK_y/view?usp=share_link).
