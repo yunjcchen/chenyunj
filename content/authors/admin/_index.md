@@ -1,84 +1,56 @@
 ---
-# Display name
-title: Alice Bighetti 吳恩達
-
-# Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Yun-Ju Chen 陳韻如
+role: Postdoctoral Fellow
+avatar_filename: avatar.jpg
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+  - Autism
+  - Developmental Trajectories
+  - Sensory Features
+  - Behavioral Phenotying
+  - Early Screening
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "mailto: cheny793@mcmaster.ca"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: https://twitter.com/yunjcchen
+    label: ""
     display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+      header: false
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=cFAOXzUAAAAJ&hl=en
+    label: ""
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Yun-Ju-Chen-2
+  - icon: cv
+    icon_pack: ai
+    link: https://drive.google.com/file/d/1FwefFLiAKRtGJIUmeCjM3r9QEydK848q/view?usp=share_link
+organizations:
+  - name: McMaster University 🇨🇦
+    url: ""
+education:
+  courses:
+    - course: PhD in Occupational Science
+      institution: University of Southern California 🇺🇸
+      year: 2021
+    - course: MS in Medical Sciences (Neuropsychology)
+      institution: Keio University 🇯🇵
+      year: 2012
+    - course: BS in Occupational Therapy
+      institution: National Taiwan University 🇹🇼
+      year: 2009
+superuser: true
+last_name: Bighetti
 highlight_name: true
+first_name: Alice
+email: ""
 ---
+I am currently a postdoctoral fellow in the Offord Centre for Child Studies at McMaster University and a member of the [McMaster Autism Research Team (MacART)](http://www.macautism.ca/welcome-macart).
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My original training as a pediatric occupational therapist working with children with special needs across settings as well as extended research experiences in longitudinal projects with clinical and general populations have led to my interest in understanding **the heterogeneous behavioral manifestations across the lifespan with and *beyond* the autism spectrum**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am particularly passionate about applying concepts and quantitative approaches grounded upon *developmental science* (e.g., developmental variability and cascades) and *occupational science* (e.g., person-environment fit or transactions) to autism research to inform early detection and intervention and to improve the life outcomes of autistic individuals and their families.
