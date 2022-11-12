@@ -3,12 +3,13 @@ title: "Early developmental profiles of sensory features and links to school-age
   adaptive and maladaptive outcomes: A birth cohort investigation"
 publication_types:
   - "2"
-author_notes:
+authors:
   - Yun-Ju Chen
   - John Sideris
   - Linda R. Watson
   - Elizabeth R. Crais
   - Grace T. Baranek
+author_notes: []
 doi: 10.1017/S0954579422001195
 publication: "*Development and Psychopathology* (in press)"
 abstract: "Sensory-based subtypes among autistic children have been well
