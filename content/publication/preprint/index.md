@@ -50,7 +50,7 @@ publication_short: ""
 url_source: "#"
 url_video: "#"
 featured: false
-date: 2019-04-07T00:00:00Z
+date: 2022-10-02T00:00:00.000Z
 url_slides: ""
 links:
   - name: Custom Link
@@ -59,7 +59,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: "#"
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 doi: 10.1016/j.rasd.2022.102035
