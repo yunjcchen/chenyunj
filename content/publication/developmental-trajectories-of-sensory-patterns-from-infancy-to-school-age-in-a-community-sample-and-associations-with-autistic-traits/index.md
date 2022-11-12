@@ -1,7 +1,6 @@
 ---
 title: Developmental trajectories of sensory patterns from infancy to school age
   in a community sample and associations with autistic traits
-url_pdf: https://drive.google.com/file/d/1clvfgc24GIwKjHUwgpUdEqRxG3Ahf-a7/view?usp=share_link
 publication_types:
   - "2"
 authors:
@@ -26,6 +25,7 @@ abstract: This prospective study examined the latent growth trajectories of
   facilitating early identification of associated challenges and tailored
   support for families.
 draft: false
+url_pdf: https://drive.google.com/file/d/1clvfgc24GIwKjHUwgpUdEqRxG3Ahf-a7/view?usp=share_link
 featured: false
 image:
   filename: featured.png
@@ -33,4 +33,4 @@ image:
   preview_only: false
 date: 2022-07-01T17:22:31.453Z
 ---
-Supplementary materials can be downloaded [here](https://docs.google.com/document/d/1zbMF4zkdpE5pUQ-uv369PTUcFB1QOV4k/edit?usp=share_link&ouid=118048290110788908284&rtpof=true&sd=true).
+Supplementary materials can be downloaded [here](https://drive.google.com/file/d/18UxG7vwXcdT7sJoskZZAAQJ0xT-R3FT3/view?usp=share_link).
