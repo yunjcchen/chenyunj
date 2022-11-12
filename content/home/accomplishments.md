@@ -28,7 +28,7 @@ item:
     date_start: '2022-10-15'
     description: 'A transdiagnostic investigation of co-occurring health conditions in autism among the Canadian general population (PI: Yun-Ju Chen): Age-varying patterns and functional impact'
     organization: Statistics Canada
-    organization_url: https://www23.statcan.gc.ca/
+    organization_url: https://www.statcan.gc.ca/en/start
     title: Canadian Health Survey on Children and Youth (CHSCY) 
     url: https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=5233
   
