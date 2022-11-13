@@ -7,8 +7,8 @@ interests:
   - Autism
   - Sensory Features
   - Early Screening
-  - Developmental Trajectories
   - Behavioral Phenotying
+  - Developmental Trajectories
 social:
   - icon: envelope
     icon_pack: fas
