@@ -38,7 +38,6 @@ abstract: Aberrant attention patterns have been commonly reported in autistic
   might underlie attention patterns as impacted by stimulus properties
   specifically in autism.
 draft: false
-url_pdf: https://drive.google.com/file/d/1LbjPVC-4NRYsaRpnz8Ko4TJHFcnve4oL/view?usp=share_link
 featured: false
 image:
   filename: featured
