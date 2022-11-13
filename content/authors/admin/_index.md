@@ -5,10 +5,10 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Autism
-  - Developmental Trajectories
   - Sensory Features
-  - Behavioral Phenotying
   - Early Screening
+  - Developmental Trajectories
+  - Behavioral Phenotying
 social:
   - icon: envelope
     icon_pack: fas
