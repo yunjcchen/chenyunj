@@ -26,9 +26,6 @@ social:
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Yun-Ju-Chen-2
-  - icon: cv
-    icon_pack: ai
-    link: https://drive.google.com/file/d/1FwefFLiAKRtGJIUmeCjM3r9QEydK848q/view?usp=share_link
 organizations:
   - name: McMaster University
     url: ""
