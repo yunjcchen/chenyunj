@@ -48,6 +48,6 @@ email: ""
 ---
 Hello! I am currently a postdoctoral fellow in the [Offord Centre for Child Studies](https://offordcentre.com/) at McMaster University and a member of the [McMaster Autism Research Team (MacART)](http://www.macautism.ca/welcome-macart).
 
-Originally trained as a pediatric occupational therapist working with children with special needs across settings, my extended research experiences in longitudinal projects with clinical and general populations have led to my interest in parsing **the heterogeneous behavioral manifestations across the lifespan with and *beyond* the autism spectrum**.
+Originally trained as a pediatric occupational therapist working with children with special needs across developmental stages and settings, my extended research experiences in longitudinal projects with clinical and general populations have led to my interest in parsing **the heterogeneous behavioral manifestations across the lifespan with and *beyond* the autism spectrum**.
 
 I am particularly passionate about applying concepts and quantitative approaches grounded upon *developmental science* (e.g., developmental variability and cascades) and *occupational science* (e.g., person-environment fit and transactions) to autism research to inform early detection and intervention and for improving the life outcomes of autistic individuals and their families.
