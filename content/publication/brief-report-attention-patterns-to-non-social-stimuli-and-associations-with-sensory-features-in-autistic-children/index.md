@@ -40,7 +40,7 @@ abstract: Aberrant attention patterns have been commonly reported in autistic
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2022-10-01T17:21:03.149Z
