@@ -1,6 +1,5 @@
 ---
 title: "Rethinking autism intervention science: A dynamic perspective"
-url_pdf: https://drive.google.com/file/d/17g_KdzVe74h-NnYoY0rnzRzgYLxGYM7f/view?usp=share_link
 publication_types:
   - "2"
 authors:
@@ -31,9 +30,10 @@ abstract: "Recent advances in longitudinal methodologies for observational
   more personalized interventions and stepped care approaches for individuals on
   the heterogeneous spectrum of Autism with changing needs across development."
 draft: false
+url_pdf: https://drive.google.com/file/d/17g_KdzVe74h-NnYoY0rnzRzgYLxGYM7f/view?usp=share_link
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2022-02-25T18:26:26.341Z
