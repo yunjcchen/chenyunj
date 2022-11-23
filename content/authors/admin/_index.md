@@ -26,6 +26,11 @@ social:
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Yun-Ju-Chen-2
+  - display:
+      header: false
+    icon_pack: fas
+    icon: orcid
+    link: https://orcid.org/0000-0002-0659-2110
 organizations:
   - name: McMaster University
     url: ""
