@@ -28,7 +28,7 @@ social:
     link: https://www.researchgate.net/profile/Yun-Ju-Chen-2
   - display:
       header: false
-    icon_pack: fab
+    icon_pack: ai
     icon: orcid
     link: https://orcid.org/0000-0002-0659-2110
 organizations:
