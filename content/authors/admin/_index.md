@@ -56,3 +56,10 @@ Hello! I am currently a postdoctoral fellow in the [Offord Centre for Child Stu
 Originally trained as a pediatric occupational therapist working with children with special needs across developmental stages and settings, my extended research experiences in longitudinal projects with clinical and general populations have led to my interest in parsing **the heterogeneous behavioral manifestations across the lifespan within and *beyond* the autism spectrum**.
 
 I am particularly passionate about applying concepts and quantitative approaches grounded upon *developmental science* (e.g., developmental variability and cascades) and *occupational science* (e.g., person-environment fit and transactions) to autism research to inform early detection and intervention and for improving the life outcomes of autistic individuals and their families.
+
+M﻿y primary research topics:
+
+1. Early sensory differences and development in transdiagnostic community samples of infants and children
+2. Development and validation of parent-report screeners for early identification of autism 
+3. Developmental variability of adaptive functioning outcomes from early childhood to adolescence in autism 
+4. Developmental dynamics of core symptoms, co-occurring health conditions, and functional impacts in autism
