@@ -33,4 +33,9 @@ image:
   preview_only: false
 date: 2022-07-01T17:22:31.453Z
 ---
+M﻿edia Coverage:
+
+* [U﻿SC Chan News](https://chan.usc.edu/news/latest/new-study-shows-autism-correlated-with-changing-sensory-preferences-during-early-childhood)
+* [D﻿aily Trojan](https://dailytrojan.com/2022/03/30/possible-new-asd-screening-method-found/)
+
 Supplementary materials can be downloaded [here](https://drive.google.com/file/d/18UxG7vwXcdT7sJoskZZAAQJ0xT-R3FT3/view?usp=share_link).
