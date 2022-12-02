@@ -2,7 +2,6 @@
 title: "Early measurement of autism risk constructs in the general population: A
   new factor structure of the First Years Inventory (FYIv3.1) for ages 6-16
   months"
-url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/aur.2691
 publication_types:
   - "2"
 authors:
@@ -39,6 +38,7 @@ abstract: "Early detection of autism risk in the community is critical to
   of the FYIv3.1 for phenotypic subtyping in the general population, and early
   detection in a broader age range of 6–16 months in future clinical studies."
 draft: false
+url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/aur.2691
 featured: false
 image:
   filename: featured
@@ -46,3 +46,4 @@ image:
   preview_only: false
 date: 2022-05-01T17:25:18.266Z
 ---
+M﻿edia Coverage: [USC Chan News](https://chan.usc.edu/news/latest/new-analysis-of-developmental-screen-finds-autistic-children-showed-heightened-sensory-motor-behaviors-as-infants)
