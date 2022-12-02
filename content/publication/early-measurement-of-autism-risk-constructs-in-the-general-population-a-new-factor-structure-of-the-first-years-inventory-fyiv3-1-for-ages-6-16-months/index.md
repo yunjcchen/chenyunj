@@ -46,4 +46,4 @@ image:
   preview_only: false
 date: 2022-05-01T17:25:18.266Z
 ---
-M﻿edia Coverage: [USC Chan News](https://chan.usc.edu/news/latest/new-analysis-of-developmental-screen-finds-autistic-children-showed-heightened-sensory-motor-behaviors-as-infants)
+\*M﻿edia Coverage: [USC Chan News](https://chan.usc.edu/news/latest/new-analysis-of-developmental-screen-finds-autistic-children-showed-heightened-sensory-motor-behaviors-as-infants)
