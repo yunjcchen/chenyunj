@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Claire Yun-Ju Chen'
+    twitter: 'yunjcchen'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -49,6 +49,8 @@ footer:
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BqJoP6dlJegPl79L3e0CqiBUWJ4bN87qpadQa0P9yYE&cl=ffffff&w=a"></script>
 
 # Localization
 
