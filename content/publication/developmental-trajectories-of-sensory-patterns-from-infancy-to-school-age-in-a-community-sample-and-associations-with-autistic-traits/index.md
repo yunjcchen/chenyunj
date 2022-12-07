@@ -8,7 +8,7 @@ authors:
   - Sideris J
   - Watson LR
   - Crais ER
-  - "& Baranek GT"
+  - Baranek GT
 doi: 10.1111/cdev.13745
 publication: "*Child Development, 93*, e446-e459"
 abstract: This prospective study examined the latent growth trajectories of
