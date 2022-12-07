@@ -1,19 +1,18 @@
 ---
 title: Sensory reactivity of infants at elevated likelihood of autism and
   associations with caregiver responsiveness
-url_pdf: https://link.springer.com/content/pdf/10.1007/s10803-022-05764-z.pdf
 publication_types:
   - "2"
 authors:
-  - Emily Campi
-  - Elizabeth Choi
-  - Yun-Ju Chen
-  - Cristin M. Holland
-  - Stephanie Bristol
-  - John Sideris
-  - Elizabeth R. Crais
-  - Linda R. Watson
-  - Grace T. Baranek
+  - Campi E
+  - Choi E
+  - Chen YJ
+  - Holland C
+  - Bristol S
+  - Sideris J
+  - Crais ER
+  - Watson LR
+  - "& Baranek GT"
 doi: 10.1007/s10803-022-05764-z
 publication: "*Journal of Autism and Developmental Disorders*, 1-10"
 abstract: Infants at elevated likelihood of developing autism display
@@ -29,6 +28,7 @@ abstract: Infants at elevated likelihood of developing autism display
   with moderately high sensory hypo- and hyperreactivity demonstrated higher
   responsiveness.
 draft: false
+url_pdf: https://link.springer.com/content/pdf/10.1007/s10803-022-05764-z.pdf
 featured: false
 image:
   filename: featured
