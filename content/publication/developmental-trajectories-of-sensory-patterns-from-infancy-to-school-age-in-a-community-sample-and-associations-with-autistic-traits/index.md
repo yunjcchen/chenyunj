@@ -4,11 +4,11 @@ title: Developmental trajectories of sensory patterns from infancy to school age
 publication_types:
   - "2"
 authors:
-  - Yun-Ju Chen
-  - John Sideris
-  - Linda R. Watson
-  - Elizabeth R. Crais
-  - Grace T. Baranek
+  - Chen YJ
+  - Sideris J
+  - Watson LR
+  - Crais ER
+  - "& Baranek GT"
 doi: 10.1111/cdev.13745
 publication: "*Child Development, 93*, e446-e459"
 abstract: This prospective study examined the latent growth trajectories of
