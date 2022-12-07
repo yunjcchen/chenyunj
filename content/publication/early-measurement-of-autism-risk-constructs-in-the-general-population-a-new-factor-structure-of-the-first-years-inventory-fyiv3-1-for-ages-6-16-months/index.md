@@ -5,12 +5,12 @@ title: "Early measurement of autism risk constructs in the general population: A
 publication_types:
   - "2"
 authors:
-  - Grace T. Baranek
-  - John Sideris
-  - Yun-Ju Chen
-  - Elizabeth R. Crais
-  - Lauren Turner-Brown
-  - Linda R. Watson
+  - Baranek GT
+  - Sideris J
+  - Chen YJ
+  - Crais ER
+  - Turner-Brown L
+  - "& Watson LR"
 doi: 10.1002/aur.2691
 publication: "*Autism Research, 15*, 915-928"
 abstract: "Early detection of autism risk in the community is critical to
