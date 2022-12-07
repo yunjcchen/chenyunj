@@ -45,9 +45,9 @@ education:
       institution: National Taiwan University
       year: 2009
 superuser: true
-last_name: Bighetti
+last_name: Chen
 highlight_name: true
-first_name: Alice
+first_name: YJ
 email: ""
 ---
 Hello! I am currently a postdoctoral fellow in the [Offord Centre for Child Studies](https://offordcentre.com/) at McMaster University and a member of the [McMaster Autism Research Team (MacART)](http://www.macautism.ca/welcome-macart).
