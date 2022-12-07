@@ -4,11 +4,11 @@ title: "Early developmental profiles of sensory features and links to school-age
 publication_types:
   - "2"
 authors:
-  - Yun-Ju Chen
-  - John Sideris
-  - Linda R. Watson
-  - Elizabeth R. Crais
-  - Grace T. Baranek
+  - Chen YJ
+  - Sideris J
+  - Watson LR
+  - Crais ER
+  - "& Baranek GT"
 author_notes: []
 doi: 10.1017/S0954579422001195
 publication: "*Development and Psychopathology* (in press)"
