@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Chen YJ
   - Duku E
-  - "& Georgiades S"
+  - Georgiades S
 doi: 10.3389/fpsyt.2022.827406
 publication: "*Frontiers in Psychiatry, 13*, 827406"
 abstract: "Recent advances in longitudinal methodologies for observational
