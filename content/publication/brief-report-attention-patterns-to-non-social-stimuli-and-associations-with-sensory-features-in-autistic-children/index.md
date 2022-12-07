@@ -4,12 +4,12 @@ title: "Brief report: Attention patterns to non-social stimuli and associations
 publication_types:
   - "2"
 authors:
-  - Yun-Ju Chen
-  - Clare Harrop
-  - Maura Sabatos-DeVito
-  - John Bulluck
-  - Aysenil Belger
-  - Grace T. Baranek
+  - Chen YJ
+  - Harrop C
+  - Sabatos-DeVito M
+  - Bulluck J
+  - Belger A
+  - "& Baranek GT"
 doi: 10.1016/j.rasd.2022.102035
 publication: "*Research in Autism Spectrum Disorders, 98*, 102035"
 abstract: Aberrant attention patterns have been commonly reported in autistic
