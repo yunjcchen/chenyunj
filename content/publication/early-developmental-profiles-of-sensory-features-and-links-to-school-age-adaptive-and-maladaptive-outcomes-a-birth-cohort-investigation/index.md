@@ -8,7 +8,7 @@ authors:
   - Sideris J
   - Watson LR
   - Crais ER
-  - "& Baranek GT"
+  - Baranek GT
 author_notes: []
 doi: 10.1017/S0954579422001195
 publication: "*Development and Psychopathology* (in press)"
