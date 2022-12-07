@@ -4,7 +4,7 @@ title: "Brief report: Attention patterns to non-social stimuli and associations
 publication_types:
   - "2"
 authors:
-  - Chen YJ
+  - **Chen YJ**
   - Harrop C
   - Sabatos-DeVito M
   - Bulluck J
