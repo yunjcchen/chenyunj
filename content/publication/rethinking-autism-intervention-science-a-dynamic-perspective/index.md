@@ -3,9 +3,9 @@ title: "Rethinking autism intervention science: A dynamic perspective"
 publication_types:
   - "2"
 authors:
-  - Yun-Ju Chen
-  - Eric Duku
-  - Stelios Georgiades
+  - Chen YJ
+  - Duku E
+  - "& Georgiades S"
 doi: 10.3389/fpsyt.2022.827406
 publication: "*Frontiers in Psychiatry, 13*, 827406"
 abstract: "Recent advances in longitudinal methodologies for observational
