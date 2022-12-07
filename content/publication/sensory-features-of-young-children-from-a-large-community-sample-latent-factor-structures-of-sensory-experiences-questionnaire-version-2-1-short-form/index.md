@@ -7,12 +7,12 @@ title: "Sensory features of young children from a large community sample: Latent
 publication_types:
   - "2"
 authors:
-  - Helen Lee
-  - Yun-Ju Chen
-  - John Sideris
-  - Linda R. Watson
-  - Elizabeth R. Crais
-  - Grace T. Baranek
+  - Lee H
+  - Chen YJ
+  - Sideris J
+  - Watson LR
+  - Crais ER
+  - "& Baranek GT"
 doi: 10.5014/ajot.2022.046995
 publication: "*American Journal of Occupational Therapy, 76*, 7603205140"
 featured: false
