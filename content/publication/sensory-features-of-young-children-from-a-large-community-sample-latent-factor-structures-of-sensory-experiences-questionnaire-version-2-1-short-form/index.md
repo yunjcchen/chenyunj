@@ -12,7 +12,7 @@ authors:
   - Sideris J
   - Watson LR
   - Crais ER
-  - "& Baranek GT"
+  - Baranek GT
 doi: 10.5014/ajot.2022.046995
 publication: "*American Journal of Occupational Therapy, 76*, 7603205140"
 featured: false
