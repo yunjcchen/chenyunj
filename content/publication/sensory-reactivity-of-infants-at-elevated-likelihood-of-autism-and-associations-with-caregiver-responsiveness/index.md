@@ -12,7 +12,7 @@ authors:
   - Sideris J
   - Crais ER
   - Watson LR
-  - "& Baranek GT"
+  - Baranek GT
 doi: 10.1007/s10803-022-05764-z
 publication: "*Journal of Autism and Developmental Disorders*, 1-10"
 abstract: Infants at elevated likelihood of developing autism display
