@@ -11,7 +11,8 @@ authors:
   - Baranek GT
 author_notes: []
 doi: 10.1017/S0954579422001195
-publication: "*Development and Psychopathology* (2022)"
+publication: "*Development and Psychopathology*, 1-11"
+publication_short: ""
 abstract: "Sensory-based subtypes among autistic children have been well
   documented, but little is known about longitudinal sensory subtypes beyond
   autistic populations. This prospective study aimed to identify subtypes based
