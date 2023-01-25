@@ -60,5 +60,5 @@ M﻿y primary research topics:
 
 1. Early sensory differences and development in transdiagnostic community samples of infants and children
 2. Development and validation of parent-report screeners for early identification of autism 
-3. Developmental variability of adaptive functioning outcomes from early childhood to adolescence in autism 
+3. Developmental variability of functional outcomes from early childhood to adolescence in autism 
 4. Developmental dynamics of core symptoms, co-occurring health conditions, and functional impacts in autism
