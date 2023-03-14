@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+ - certificate_url: ''
+    date_end: 'Current'
+    date_start: '2022-12-01'
+    description: 'A longitudinal study of 1,200 children aged 4-17 years and their primary caregiver, assessed every 3 months over the course of one-year to examine the impact of the COVID-19 pandemic response on child and youth mental health (PI: Kathy Georgiades)'
+    organization: Advancing Youth Mental Health (AYM)
+    organization_url: https://aym-mcmaster.ca
+    title: Monitoring the Impact of the COVID-19 Pandemic Response on Mental Health and Well-Being of Children, Young People and their Families in Ontario (ON:PATH)
+    url: https://aym-mcmaster.ca/studies
 
   - certificate_url: ''
     date_end: 'Current'
@@ -31,7 +39,7 @@ item:
     organization: Statistics Canada
     organization_url: https://www.statcan.gc.ca/en/start
     title: Canadian Health Survey on Children and Youth (CHSCY) 
-    url: https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=5233
+    url: https://rtsa-tacc.com/training/our-trainees/2022-2/
   
   - certificate_url: ''
     date_end: 'Current'
