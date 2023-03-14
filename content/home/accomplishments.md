@@ -23,13 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+
  - certificate_url: ''
     date_end: 'Current'
     date_start: '2022-12-01'
     description: 'A longitudinal study of 1,200 children aged 4-17 years and their primary caregiver, assessed every 3 months over the course of one-year to examine the impact of the COVID-19 pandemic response on child and youth mental health (PI: Kathy Georgiades)'
     organization: Advancing Youth Mental Health (AYM)
     organization_url: ''
-    title: 'Monitoring the Impact of the COVID-19 Pandemic Response on Mental Health and Well-Being of Children, Young People and their Families in Ontario (ON:PATH)'
+    title: Monitoring the Impact of the COVID-19 Pandemic Response on Mental Health and Well-Being of Children, Young People and their Families in Ontario (ON:PATH)
     url: https://aym-mcmaster.ca/studies/
 
   - certificate_url: ''
