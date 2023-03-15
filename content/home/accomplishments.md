@@ -23,9 +23,8 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item: 
-
   - certificate_url: ''
-    date_end: 'Current'
+    date_end: ''
     date_start: '2022-10-15'
     description: 'A transdiagnostic investigation of co-occurring health conditions in autism among the Canadian general population (PI: Yun-Ju Chen): Age-varying patterns and functional impact'
     organization: Statistics Canada
@@ -34,7 +33,7 @@ item:
     url: https://rtsa-tacc.com/training/our-trainees/2022-2/
     
   - certificate_url: ''
-    date_end: 'Current'
+    date_end: ''
     date_start: '2021-10-15'
     description: 'Multi-site Canadian prospective study from autism diagnosis to adulthood (PI: Peter Szatmari)'
     organization: Pathways in ASD
@@ -43,7 +42,7 @@ item:
     url: https://asdpathways.ca/
     
   - certificate_url: ''
-    date_end: 'Current'
+    date_end: ''
     date_start: '2021-09-30'
     description: 'Multi-site prospective study from autism diagnosis in autism (PI: Stelios Georgiades):  
     Tracking developmental trajectories of stakeholder-informed outcomes with protocols that aim for bridging research-to-practice gap'
