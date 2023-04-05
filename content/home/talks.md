@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-active: true
+active: false
 widget: collection
 
 # This file represents a page section.
@@ -27,7 +27,6 @@ content:
     exclude_future: false
     exclude_past: false
     publication_type: ''
-    url_slides: uploads/INSAR_VABS_Chen.pdf
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
