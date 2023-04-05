@@ -22,3 +22,7 @@ main:
   - name: CV
     url: uploads/CV_Chen_Mar2023.pdf
     weight: 60
+
+- name: Poster
+    url: uploads/INSAR_VABS_Chen.pdf
+    weight: 70
