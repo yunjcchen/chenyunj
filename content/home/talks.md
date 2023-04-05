@@ -40,3 +40,6 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+
+  - name: Poster
+    url: uploads/INSAR_VABS_Chen.pdf
