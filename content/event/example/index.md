@@ -15,7 +15,7 @@ abstract: >-
   Results: The piecewise latent growth model best described VABS trajectories with two turning points identified at transitions into school age (~6 years) and youthhood (~10 years). We parsed four VABS trajectory subgroups (entropy=.92; Figure 1) that vary by functioning level, change rate for certain VABS domains, and developmental periods segmented by the turning points. Household income and nonverbal IQ, but not autism symptom severity at baseline, remained significant covariates of VABS trajectory membership when adjusting for other covariates. About 16% of our sample was in Class 4, which is characterized by notable early growth across VABS domains and less decline in social functioning upon transitioning into youth. Children in Class 4 had higher yet highly variable nonverbal IQ (M=82.4, SD=25.8) at diagnosis, showed more reductions in social-affect symptoms across childhood (Figure 2), and were more likely to come from a higher-income family (b=.37 to .52, all SE=.13, p<.01). In contrast, the lowest functioning group (Class 1; 20% prevalence) was marked by an early decline across VABS domains despite reductions in autism symptoms, followed by late improvement (particularly in daily-living skills) during school age and then decline in adolescence. 
 
   Conclusions: This study demonstrated the heterogenous pathways of adaptive functioning domains across developmental stages in autism. We identified key individual and family correlates of developmental variability (e.g., nonverbal IQ, household income) as well as crucial transition periods for functional declines or improvement, which have important implications for understanding risk and resilience processes leading to various developmental outcomes. Our findings highlight the significance of taking developmental and multidimensional approaches to studying autism-related outcomes and thus informing timely and tailored supports for individuals on the spectrum.
-slides: example
+slides: ""
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 title: Correlates and Turning Points of Adaptive Functioning Trajectories
@@ -44,6 +44,7 @@ projects: []
 image:
   caption: ""
   focal_point: Right
+  filename: null
 url_code: ""
 ---
 
