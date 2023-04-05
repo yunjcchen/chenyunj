@@ -21,6 +21,6 @@ main:
     weight: 60
     
   - name: Poster
-    url: uploads/INSAR_VABS_Chen.pdf
+    url: uploads/INSAR2023_VABS_Chen.pdf
     weight: 70
 
