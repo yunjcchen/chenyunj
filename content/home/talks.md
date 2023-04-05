@@ -27,6 +27,7 @@ content:
     exclude_future: false
     exclude_past: false
     publication_type: ''
+    url_slides: uploads/INSAR_VABS_Chen.pdf
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
@@ -40,4 +41,4 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
-    url_slides: uploads/INSAR_VABS_Chen.pdf
+  
