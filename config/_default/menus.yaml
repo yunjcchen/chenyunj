@@ -23,6 +23,8 @@ main:
   - name: Poster1
     url: uploads/INSAR2023_VABS_Chen.pdf
     weight: 70
- 
-    
+      
+  - name: Poster2
+    url: uploads/INSAR2023_PEMCY_Chen.pdf
+    weight: 80 
 
