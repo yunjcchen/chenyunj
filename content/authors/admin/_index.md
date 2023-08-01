@@ -50,7 +50,7 @@ highlight_name: true
 first_name: YJ
 email: ""
 ---
-Hello! I am currently a postdoctoral fellow in the [Offord Centre for Child Studies](https://offordcentre.media-doc.ca/) at McMaster University and a member of the [McMaster Autism Research Team (MacART)](http://www.macautism.ca/welcome-macart).
+Hello! I am currently a postdoctoral fellow in the [Offord Centre for Child Studies](https://offordcentre.com/) at McMaster University and a member of the [McMaster Autism Research Team (MacART)](http://www.macautism.ca/welcome-macart).
 
 With a background in occupational therapy, I have gained valuable experience working with individuals with special needs across different developmental stages and settings. Through my involvement in longitudinal projects with clinical and general populations, I have developed a strong interest in understanding the diverse behavioral manifestations observed throughout the lifespan within and beyond the autism spectrum.
 
