@@ -20,4 +20,7 @@ main:
     url: uploads/CV_Chen_Jun2024.pdf
     weight: 60
 
+  - name: 中文
+    url: uploads/CV_Chinese_YJChen.pdf
+    weight: 70
 
