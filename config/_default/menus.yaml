@@ -21,6 +21,6 @@ main:
     weight: 60
 
   - name: 中文
-    url: uploads/CV_CH_YJChen.pdf
+    url: uploads/CV_Chinese_YJChen.pdf
     weight: 70
 
