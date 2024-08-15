@@ -10,7 +10,7 @@ authors:
   - Crais ER
   - Baranek GT
 doi: 10.1007/s10803-024-06494-0
-publication: "* Journal of Autism and Developmental Disorders*, 1-12"
+publication: "*Journal of Autism and Developmental Disorders*, 1-12"
 abstract: Early sensory differences may cascade into later social-communication
   difficulties in autism, yet their impacts on broader functional outcomes have
   remained understudied. This study aimed to conduct a comprehensive
@@ -37,7 +37,7 @@ abstract: Early sensory differences may cascade into later social-communication
 draft: false
 featured: false
 image:
-  filename: chen-fig4b.png
+  filename: fig4.jpg
   focal_point: Smart
   preview_only: false
 date: 2024-08-15T12:54:46.215Z
