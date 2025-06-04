@@ -1,6 +1,6 @@
 ---
 title: Yun-Ju Chen 陳韻如
-role: Postdoctoral Fellow
+role: Assistant Professor
 avatar_filename: avatar.jpg
 bio: ""
 interests:
@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto: cheny793@mcmaster.ca"
+    link: "mailto: chenyunj@cgu.edu.tw"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/yunjcchen
