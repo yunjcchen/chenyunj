@@ -11,7 +11,7 @@ authors:
   - Baranek GT
 author_notes: []
 doi: 10.1177/10731911241306360
-publication: "*Assessment*, 10731911241306360."
+publication: "*Assessment*, 10731911241306360"
 abstract: The use of parent-report screeners for early detection of autism is
   time- and cost-efficient in clinical settings but their utility may vary by
   respondent characteristics. This study aimed to examine the degree to which
