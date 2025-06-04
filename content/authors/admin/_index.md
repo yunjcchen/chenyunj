@@ -38,7 +38,7 @@ education:
     - course: PhD in Occupational Science
       institution: University of Southern California
       year: 2021
-    - course: MS in Medical Sciences (Neuropsychology)
+    - course: MS in Medical Sciences (Neuropsychiatry)
       institution: Keio University
       year: 2012
     - course: BS in Occupational Therapy
@@ -50,11 +50,11 @@ highlight_name: true
 first_name: YJ
 email: ""
 ---
-Hello! I am currently a postdoctoral fellow in the [Offord Centre for Child Studies](https://offordcentre.com/) at McMaster University and a member of the [McMaster Autism Research Team (MacART)](http://www.macautism.ca/welcome-macart).
+Hello! I am currently a tenure-track Assistant Professor in the Department of Occupational Therapy at Chang Gung University in Taiwan. Prior to this role, I was a postdoctoral fellow in the Department of Psychiatry and Behavioural Neurosciences at McMaster University in Canada.
 
-With a background in occupational therapy, I have gained valuable experience working with individuals with special needs across different developmental stages and settings. Through my involvement in longitudinal projects with clinical and general populations, I have developed a strong interest in understanding the diverse behavioral manifestations observed throughout the lifespan within and beyond the autism spectrum.
+My research interests lie at the intersection of occupational science/therapy, developmental psychopathology, and child psychiatry. I focus on the heterogeneous behavioral manifestations observed across the lifespan among children on the neurodevelopmental spectrum. I am particularly interested in applying advanced quantitative approaches to capture the complex and dynamic nature of typical and atypical development.
 
-I am passionate about utilizing methodology and concepts rooted in developmental science, such as developmental variability and cascades, as well as principles from occupational science, such as person-environment fit and transactions. Through these approaches, my aim is to contribute to the advancement of early detection and intervention strategies while striving to improve the overall life outcomes of individuals on the autism spectrum.
+Grounded in the principles of developmental science (e.g., developmental variability and cascades) and occupational science (e.g., person–environment fit and transactional processes), my work aims to inform early identification and intervention strategies for autism and to improve life outcomes for autistic people and their families from diverse backgrounds.
 
 M﻿y primary research topics:
 
