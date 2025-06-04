@@ -31,7 +31,7 @@ social:
     icon: orcid
     link: https://orcid.org/0000-0002-0659-2110
 organizations:
-  - name: McMaster University
+  - name: Chang Gung University
     url: ""
 education:
   courses:
