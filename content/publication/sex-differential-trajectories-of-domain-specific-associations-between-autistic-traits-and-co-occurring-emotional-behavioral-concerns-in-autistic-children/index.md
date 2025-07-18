@@ -8,10 +8,16 @@ authors:
   - Chen YJ
   - Frazier TW
   - Szatmari P
-  - Duku D
-  - Richard A
+  - Duku E
+  - Richard AE
   - Smith IM
-  - …
+  - Zwaigenbaum L
+  - Bedford R
+  - Kerns CM
+  - Zaidman‐Zait A
+  - Bennett T
+  - Elsabbagh M
+  - Vaillancourt T
   - Georgiades S
 doi: 10.1002/aur.70018
 publication: "*Autism Research, 18*(4), 820-832"
